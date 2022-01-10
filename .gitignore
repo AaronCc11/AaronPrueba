@@ -1,0 +1,10 @@
+#ignorar archivos
+
+#backup
+*.bak
+
+#temporales
+*.tmp
+
+#clases compiladas
+*.class
